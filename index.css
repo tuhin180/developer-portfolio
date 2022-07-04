@@ -37,3 +37,12 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+.big-section {
+  width: 50%;
+}
+.dream-big {
+  padding: 5px;
+}
+.tex-big {
+  padding-top: 100px;
+}
